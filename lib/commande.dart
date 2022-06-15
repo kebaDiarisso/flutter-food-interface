@@ -50,7 +50,7 @@ class _CommandeState extends State<Commande> {
                         child: ListTile(
                           leading:
                               const Icon(Icons.timer, color: Colors.orange),
-                          title: const Text('Delivery / As soon as possible'),
+                          title: const Text('Deliver / As soon as possible'),
                           trailing: IconButton(
                               onPressed: () {},
                               icon: const Icon(Icons.arrow_forward_ios)),
